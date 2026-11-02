@@ -32,6 +32,6 @@ Most of what the project needs isn't code: design, testing, writing, clinical re
 
 - **Bugs and ideas:** open an issue in the repo that fits.
 - **Security:** see [SECURITY.md](https://github.com/Health-Flare/app/blob/main/SECURITY.md). Please don't open a public issue.
-- **Support the project:** [GitHub Sponsors](https://github.com/sponsors/Health-Flare).
+- **Support the project:** [GitHub Sponsors](https://github.com/sponsors/Health-Flare), [Open Collective](https://opencollective.com/health-flare), or [Ko-fi](https://ko-fi.com/healthflare).
 
 Built by [AutomatedBytes](https://automatedbytes.com) in Canada.
