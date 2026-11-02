@@ -13,6 +13,8 @@ their ongoing development:
 - **[Open Collective](https://opencollective.com/health-flare)** — a public
   ledger of every dollar in and out. Use this if you want to see exactly
   where the money goes before giving.
+- **[Ko-fi](https://ko-fi.com/healthflare)** — the simplest way to give a
+  one-time amount, no account needed.
 
 ## Where the money goes, in order of priority
 
