@@ -1,4 +1,4 @@
-# Health Flare <img src="https://github.com/Health-Flare/app/blob/main/assets/images/HealthFlare%20Icon%20Light-256.png" width="48" height="48">
+# Health Flare <img src="https://raw.githubusercontent.com/Health-Flare/brand/v2.2.0/assets/marks/healthflare-mark-compact-sunrise.svg" width="48" height="48" alt="">
 
 **Free, open source apps for tracking chronic illness and reproductive health. No account, no analytics, no server of ours.**
 
